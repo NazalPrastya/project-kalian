@@ -11345,9 +11345,10 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
     - Tailwind
     - Flowbite
     - Data-aos
-    -dll saya gainget
+    - dll saya gainget
     <br>
     repository : -
+    <br>
     link : https://nazal.rpl2azzy.com
     <br>
     <br>
