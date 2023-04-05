@@ -11334,4 +11334,21 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 
+12. [https://rpl2azzy.com/]
+    **nazal**
+    Halo, selamat siang pak Sandhika dan teman teman WPU semuanya, perkenalkan nama saya Nazal Gusti Prastya dari SMK Negeri 1 Ciomas bogor pak. Saya sedang duduk di kelas 11 sekarang.
+    Saya ingin meminta pendapat tentang project yang sudah saya buat agar dapat saya perbaiki untuk kedepannya. jadi saya membuat project Sistem informasi kantin sekolah saya...
+    sistem ini dibuat menggunakan:
+    - Laravel
+    - Tailwind
+    - Flowbite
+    - Data-aos
+    -dll saya gainget
+
+    repository : -
+    link : https://nazal.rpl2azzy.com
+
+    dan juga saya membuat website untuk kelas saya untuk menampung project-project yang sudah teman teman saya buat juga berserta dengan profile mereka
+    link: https://rpl2azzy.com/
+
 
