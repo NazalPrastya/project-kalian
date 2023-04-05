@@ -11339,7 +11339,7 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
     **nazal**
     <br>
     Halo, selamat siang pak Sandhika dan teman teman WPU semuanya, perkenalkan nama saya Nazal Gusti Prastya dari SMK Negeri 1 Ciomas bogor pak. Saya sedang duduk di kelas 11 sekarang.
-    Saya ingin meminta pendapat tentang project yang sudah saya buat agar dapat saya perbaiki untuk kedepannya. jadi saya membuat project Sistem informasi kantin sekolah saya... ini juga merupakan project pertama saya
+    Saya ingin meminta pendapat tentang project yang sudah saya buat agar dapat saya perbaiki untuk kedepannya. jadi saya membuat project Sistem informasi kantin sekolah saya... ini juga merupakan project pertama saya. sistem ini dibuat untuk menjawab permasalahaan kantin kita, karena saat penjaga atau petugas kantin tidak ada kami sebagai pembeli sedikit kesulitan untuk melakukan transaksi.<br>
     sistem ini dibuat menggunakan:
     - Laravel
     - Tailwind
